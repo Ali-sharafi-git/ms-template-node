@@ -1,2 +1,1 @@
-# ms-template-node
-project structure for node js micro service
+# Project structure for node js micro service
